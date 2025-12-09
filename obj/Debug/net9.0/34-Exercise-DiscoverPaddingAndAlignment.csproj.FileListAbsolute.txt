@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\bin\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\bin\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\bin\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\bin\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\bin\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\refint\34-Exercise-DiscoverPaddingAndAlignment.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\34-Exercise-DiscoverPaddingAndAlignment.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\34-Exercise-DiscoverPaddingAndAlignment\obj\Debug\net9.0\ref\34-Exercise-DiscoverPaddingAndAlignment.dll
