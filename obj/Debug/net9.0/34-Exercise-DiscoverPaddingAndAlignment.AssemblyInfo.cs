@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("34-Exercise-DiscoverPaddingAndAlignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1650c145d685b3b6d73744c24698146b5e58117f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d736964172ebada120bcc732a4352964e746e1f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("34-Exercise-DiscoverPaddingAndAlignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("34-Exercise-DiscoverPaddingAndAlignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
